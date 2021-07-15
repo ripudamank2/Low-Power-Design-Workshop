@@ -26,3 +26,8 @@
            c. TritonRoute Features
    ##### 6. Refrences
    ##### Acknowledgements
+
+
+
+## DAY_1 - Intorduction to CMOS and Low power Design
+System Perofrmance correspond with processing power or circuit speed. Perofrmance of a circuit is measure in MIPS(millions of instruction per second). 
