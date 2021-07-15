@@ -1,4 +1,5 @@
 # Low-Power-Design-Workshop
+ Low Power Design is a cluster of techniques and studies that aim at reducing the overall power in the integrated circuit. The integrated circuit designs from CMOS(complementary metal-oxide-semiconductor). Why we choose CMOS because they have low power consumption and high noise immunity. But with low power consumption that doesn't mean it doesn't require power reduction techniques. When the complexity of the circuits increases, power demand also increases. Hence we need to work toward the low power techniques development for all the embedded devices, which you see in your daily life.
 
 
 
