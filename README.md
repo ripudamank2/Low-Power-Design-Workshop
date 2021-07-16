@@ -35,12 +35,19 @@ System Perofrmance correspond with processing power or circuit speed. Perofrmanc
   In all the portable electronics where ever you see the battery, designer need to focus on minimizing power or energy in order to improve the battery life. Hence total power conusmption has become the major concern and surpassed speed-area constraints.
   
  We will not deepdive into Power or Energy formula but will try to understnad the economics of Power/Energy. 
+ 
  1.
+ 
  2.
+ 
  3.
+ 
  4.
+ 
  5.
+ 
  6.
+ 
  7.
  
 
