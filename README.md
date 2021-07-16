@@ -54,7 +54,15 @@ System Perofrmance correspond with processing power or circuit speed. Perofrmanc
 Further more we will try to analyze some case studies related to power or energy in the electronics world.  
 **Case 1 :** Why do some devices like the Samsung Note have explosions and others don't ?
 
- The Phones dont have cooling system like laptops, PC or electric vehicle, so heat must spread out. If that is not happening , the heat will generate faster and material of the battery will start to break down while triggering the chemical reaction. This will leads to a process called **Thermal Runway**.
+ The Phones dont have cooling system like laptops, PC or electric vehicle, so heat must spread out. If that is not happening , the heat will generate faster and material of the battery will start to break down while triggering the chemical reaction. This will leads to a process called **Thermal Runway**. So engineers are working on the design of batteries so that thermal runway can be solved. 
+ 
+ 
+ **Case 2:** Cost of fans to be mounted on CPUs in laptops and its characteristics
+  Cooling is a major concern while designing a PC or laptop. When the workload increases, the hardware starts generating heat. So the performance of the system will reduce with an increase in power consumption. So its very important how you designed and placed the fans so that Airflow should be properly maintained. 
+  Thats why fan cost are also increasing slowly in the market . 
+ 
+ 
+ **Case 3:** The IPhone 6 battery degradation lawsuit
  
 
 
