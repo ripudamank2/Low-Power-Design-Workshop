@@ -124,3 +124,13 @@ Power Management tips while designing the circuit. They will sound simple but ac
 
 
 ![FIG:7](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power_energy.png)
+
+There are 4 major parameter in Low Power Design.
+1. Denisty 
+2. Delivery
+3. Leakage
+4. Lifetime
+
+![FIG:8](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/balance_power.png)
+
+
