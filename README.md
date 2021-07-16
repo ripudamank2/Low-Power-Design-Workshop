@@ -82,8 +82,8 @@ Current is rate at which charge flows.
 
 Resistance, Capacitance and Inductance affect the current in cmos devices. 
 
-
-![FIG:2](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/Cmos.png)
+Mosfet Region of Operation 
+![FIG:2](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/MOSFET.svg)
 
 
 
