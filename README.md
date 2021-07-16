@@ -53,6 +53,8 @@ System Perofrmance correspond with processing power or circuit speed. Perofrmanc
 
 Further more we will try to analyze some case studies related to power or energy in the electronics world.  
 **Case 1 :** Why do some devices like the Samsung Note have explosions and others don't ?
+
+ The Phones dont have cooling system like laptops, PC or electric vehicle, so heat must spread out. If that is not happening , the heat will generate faster and material of the battery will start to break down while triggering the chemical reaction. This will leads to a process called **Thermal Runway**.
  
 
 
