@@ -101,5 +101,12 @@ Resistance, Capacitance and Inductance affect the current in cmos devices.
 
 
 
+## DAY2 - Low Power Techniques
+
+  Power in the CMOS is the combination of Dynamic Power and Static Power. 
+
+
+![FIG:5](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power.png)
+
 
 
