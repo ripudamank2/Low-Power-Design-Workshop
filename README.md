@@ -8,7 +8,7 @@
 ### Table of Content
    ##### 1. Introduction to Low Power Design
            a. Why Low Power Desing?
-           b. Introduction to CMOS
+           b. Introduction to CMOS and voltage control techniques
    ##### 2. Low Power Techniques
            a. Low Power Fundamentals
            b. Voltage Control Techniques
