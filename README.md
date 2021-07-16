@@ -109,4 +109,11 @@ Resistance, Capacitance and Inductance affect the current in cmos devices.
 ![FIG:5](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power.png)
 
 
+Below picture show how the power is distributed when we use the laptop for different application.
+
+![FIG:6](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power_distibution.png)
+
+
+
+So this picture expalin CPU is not a major culprit of power optimiation but there are lots of other components and process which consume lots of power. 
 
