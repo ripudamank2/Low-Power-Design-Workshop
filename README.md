@@ -117,3 +117,9 @@ Below picture show how the power is distributed when we use the laptop for diffe
 
 So this picture explain CPU is not a major culprit of power optimiation but there are lots of other components and process which consume lots of power. 
 
+
+
+Power Management tips while designing the circuit. They will sound simple but actually it take lots of knowledge and techniques to apply those concept in real circuit. 
+
+
+![FIG:7](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power_energy.pngg)
