@@ -85,6 +85,10 @@ Resistance, Capacitance and Inductance affect the current in cmos devices.
                                 Mosfet Region of Operation 
 ![FIG:2](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/MOSFET.svg)
 
+                                The 7 degree of Voltage Control in CMOS 
+                                
+![FIG:2](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/volatge_control.png)
+
 
 
 
