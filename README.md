@@ -7,9 +7,8 @@
 
 ### Table of Content
    ##### 1. Introduction to Low Power Design
-           a. Intorduction to Low Power
-           b. Why Low Power Desing?
-           c. Introduction to CMOS
+           a. Why Low Power Desing?
+           b. Introduction to CMOS
    ##### 2. Low Power Techniques
            a. Low Power Fundamentals
            b. Voltage Control Techniques
@@ -34,21 +33,21 @@ System Perofrmance correspond with processing power or circuit speed. Perofrmanc
 
   In all the portable electronics where ever you see the battery, designer need to focus on minimizing power or energy in order to improve the battery life. Hence total power conusmption has become the major concern and surpassed speed-area constraints.
   
- We will not deepdive into Power or Energy formula but will try to understnad the economics of Power/Energy. 
+ We will not deepdive into Power or Energy formula but will try to understnad the economics of Power/Energy while designing circuits. 
  
- 1.
+ 1. Performance --> Reducing power will improve performance.
  
- 2.
+ 2. Cost --> Packaging , Battery capacity and shipping also affect Power of the embedded devices.
  
- 3.
+ 3. Weight --> Power is a measure of how fast an amount of work is done.
  
- 4.
+ 4. Form Facor --> it depends upon the nanometer technolgy used and affect power.
  
- 5.
+ 5. Functionality --> how fast your system is performaning.
  
- 6.
+ 6. Context of use --> Optimizing power or energy according to the embedded devices we are using.
  
- 7.
+ 7. Comfort/Safety --> Heating issue should be considered while designing the circuit.
  
 
 
