@@ -145,3 +145,11 @@ There are different way to control the Power while playing with voltage of CMOS,
 
 ![FIG:12](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/retention.png)
 
+
+
+## DAY_3 - Multi Voltage Terminology
+
+
+
+
+
