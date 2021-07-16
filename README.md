@@ -58,6 +58,7 @@ Further more we will try to analyze some case studies related to power or energy
  
  
  **Case 2:** Cost of fans to be mounted on CPUs in laptops and its characteristics
+ 
   Cooling is a major concern while designing a PC or laptop. When the workload increases, the hardware starts generating heat. So the performance of the system will reduce with an increase in power consumption. So its very important how you designed and placed the fans so that Airflow should be properly maintained. 
   Thats why fan cost are also increasing slowly in the market . 
  
