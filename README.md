@@ -13,7 +13,7 @@
            a. Low Power Fundamentals
            b. Voltage Control Techniques
    ##### 3. Multi-Voltage Terminology
-           a. Deep-Dive inot state-space
+           a. Deep-Dive into state-space
            b. Basic multi-volatge terminology
    ##### 4. Power Management and Verification
            a. Volatge aware booleans
