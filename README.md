@@ -31,8 +31,9 @@
 
 ## DAY_1 - Intorduction to CMOS and Low power Design
 System Perofrmance correspond with processing power or circuit speed. Perofrmance of a circuit is measure in MIPS(millions of instruction per second). In old days major concern of VLSI designer was to focus on Area and Time implementation for the Integrated Circuit on Silicon wafer because with increase in complexitiy of circuit the cost of wafer increases. But area and time are not the only parameters which can measure the performance of the circuits. Power consumption also play major role in circuit designing. 
-In all the portable electronics where ever you see the battery, designer need to focus on minimizing power or energy in order to improve the battery life. Hence total power conusmption has become the major concern and surpassed speed-area constraints.
-We will not deepdive into Power or Energy formula but will try to understnad the economics of Power/Energy. 
+  In all the portable electronics where ever you see the battery, designer need to focus on minimizing power or energy in order to improve the battery life. Hence total power conusmption has become the major concern and surpassed speed-area constraints.
+  
+ We will not deepdive into Power or Energy formula but will try to understnad the economics of Power/Energy. 
  1.
  2.
  3.
