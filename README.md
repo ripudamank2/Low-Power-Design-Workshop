@@ -68,7 +68,8 @@ Further more we will try to analyze some case studies related to power or energy
  
  
  **Case 3:** The IPhone 6 battery degradation lawsuit
- This was also a major problem problem in battery manufacturing where the performance of the IPhone was degrading. SO they need to do some upgrades in software to improve the perofrmance of the battery.
+ 
+ This was also a major problem problem in battery manufacturing where the performance of the IPhone was degrading. So they need to do some upgrades in software to improve the perofrmance of the battery.
  
  
  
