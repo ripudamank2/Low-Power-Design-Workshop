@@ -90,9 +90,14 @@ Resistance, Capacitance and Inductance affect the current in cmos devices.
 ![FIG:2](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/volatge_control.png)
 
 
-                                 Voltage Control techniques 
+                                 Voltage Control Techniques(VCT)
 
 ![FIG:3](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/voltage_tech.png)
+
+
+                                 Application of VCT
+                                 
+![FIG:4](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/application.png)
 
 
 
