@@ -56,7 +56,7 @@ Further more we will try to analyze some case studies related to power or energy
 
  The Phones dont have cooling system like laptops, PC or electric vehicle, so heat must spread out. If that is not happening , the heat will generate faster and material of the battery will start to break down while triggering the chemical reaction. This will leads to a process called **Thermal Runway**. So engineers are working on the design of batteries so that thermal runway can be solved. 
  
-    ![FIG:1](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/Screenshot%20from%202021-07-16%2011-39-52.png)
+   ![FIG:1](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/Screenshot%20from%202021-07-16%2011-39-52.png)
 
   This picture is thermal image of the different components showing heat produce my the components. 
  
