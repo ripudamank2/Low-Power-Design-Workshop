@@ -51,6 +51,10 @@ System Perofrmance correspond with processing power or circuit speed. Perofrmanc
  
 
 
+Further more we will try to analyze some case studies related to power or energy in the electronics world. 
+#Case 1
+
+
 
 
 
