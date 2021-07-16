@@ -134,3 +134,14 @@ There are 4 major parameter in Low Power Design.
 ![FIG:8](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/balance_power.png)
 
 
+
+There are different way to control the Power while playing with voltage of CMOS,  which you can see in the below pictures. 
+
+![FIG:9](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/power_gating.png)
+
+![FIG:10](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/low-vdd.png)
+
+![FIG:11](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/DVS.png)
+
+![FIG:12](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/retention.png)
+
