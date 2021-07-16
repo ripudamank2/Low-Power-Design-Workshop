@@ -77,7 +77,9 @@ Further more we will try to analyze some case studies related to power or energy
 Voltage Control has become the number 1 choice for Power Management and CMOS are the device which are Voltage Controlled and Current Source. Since you can control the voltage Hence you can maintain the Power in the CMOS devices. 
 
 Voltage is a measure of electric field/force.
+
 Current is rate at which charge flows.
+
 Resistance, Capacitance and Inductance affect the current in cmos devices. 
 
 
