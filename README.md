@@ -115,5 +115,5 @@ Below picture show how the power is distributed when we use the laptop for diffe
 
 
 
-So this picture expalin CPU is not a major culprit of power optimiation but there are lots of other components and process which consume lots of power. 
+So this picture explain CPU is not a major culprit of power optimiation but there are lots of other components and process which consume lots of power. 
 
