@@ -157,6 +157,17 @@ Understanding some Theoritical techniques how Low Power testbench is setup .
 
 
 
+Steps to verify the test-bench
+
+1. First verify by turning On all the components.
+2. Verify All the power mode.
+3. Verify ALL after they get wakeup from OFF state including POR (power on reset)
+4. Verify PMU firmware
+5. Verify Key registers for retention
+
+Note : Emulators - it cant shutdown simulate easily.
+
+
 
 
 
