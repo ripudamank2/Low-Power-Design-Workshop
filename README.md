@@ -222,3 +222,10 @@ Disadvantage :
 
 ## DAY_4 - Power management and Volatge Aware Boolean analysis
 
+A typical Mobile SOC based on ARM architecture with power blocks.
+
+![FIG:19](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/mobile_soc.png)
+
+
+
+
