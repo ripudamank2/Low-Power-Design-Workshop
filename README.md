@@ -170,7 +170,7 @@ Note : Emulators - it cant shutdown simulate easily.
 
 
 
-###### Basic Muti-Voltage Terminolgy
+### Basic Muti-Voltage Terminolgy
 
 
 
