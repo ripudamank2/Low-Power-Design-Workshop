@@ -182,5 +182,18 @@ Note : Emulators - it cant shutdown simulate easily.
 
 
 
+MTCMOS-Power Gating
+
+* Mutli-threshold CMOS
+* Header/Footer 
+
+These form ring of HVT cells around a logic to reduce the leakage
+
+
+Two variation 
+
+1. With Charge Pump --> its a bit a costly process by designing a charge pump 
+
+2. With logic Signal --> direclty given signal to Vt cell around the logic 
 
 
