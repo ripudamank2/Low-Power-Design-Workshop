@@ -233,11 +233,16 @@ In the below image we will see how the power management is done between the appl
 ![FIG:21](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/smartphone.png)
 
 
+
+PWM brings lots of new bugs while we are testing the circuits for Power Aware Verification 
+![FIG:22](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/PWM_bugs.png)
+
+
 In the Power Aware Verification flow Bug can be classified in 3 parts
 1. Structural Errors
 2. Contro Errors
 3. Architectural Errors
 
-![FIG:21](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
+![FIG:22](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
 
 
