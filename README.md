@@ -204,3 +204,19 @@ ISOLATION CELLS
 ![FIG:19](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/isolation.png)
 
 
+
+State Retention Power Gating (SRPG)
+
+These Flip-flops are used to speed up the power recovery and maintain their state while the power is off. They are also called as Shadow Latch. 
+
+Advanatges of SRPG :
+1. Saving leakage
+2. Allow Quick system restore
+
+Disadvantage :
+
+1. Die and Area size increases
+2. Increases Rail resources (Vdd and Vret) 
+
+
+
