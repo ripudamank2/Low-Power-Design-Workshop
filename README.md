@@ -231,3 +231,13 @@ A typical Mobile SOC based on ARM architecture with power blocks.
 In the below image we will see how the power management is done between the application and baseband(Receiving call, messages etc)
 
 ![FIG:21](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/smartphone.png)
+
+
+In the Power Aware Verification flow Bug can be classified in 3 parts
+1. Structural Errors
+2. Contro Errors
+3. Architectural Errors
+
+![FIG:21](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
+
+
