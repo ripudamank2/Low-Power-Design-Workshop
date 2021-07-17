@@ -224,10 +224,10 @@ Disadvantage :
 
 A typical Mobile SOC based on ARM architecture with power blocks.
 
-![FIG:20https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/mobile_soc.png)
+![FIG:20](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/mobile_soc.png)
 
 
 
 In the below image we will see how the power management is done between the application and baseband(Receiving call, messages etc)
 
-![FIG:21https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/smartphone.png)
+![FIG:21](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/smartphone.png)
