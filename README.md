@@ -149,6 +149,13 @@ There are different way to control the Power while playing with voltage of CMOS,
 
 ## DAY_3 - Multi Voltage Terminology
 
+Understanding some Theoritical techniques how Low Power testbench is setup .
+
+![FIG:12](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/low-powerDUT.png)
+
+![FIG🕦](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/LP_TB.png)
+
+
 
 
 
