@@ -239,8 +239,8 @@ PWM brings lots of new bugs while we are testing the circuits for Power Aware Ve
 
 
 In the Power Aware Verification flow Bug can be classified in 3 parts
-1. Structural Errors
-2. Contro Errors
+1. Structural Errors --> These need to be checked constanlty through out the implementation process
+2. Control Errors  --> these errors are see in the waveform when incorrect signal propagation happens after power restoration.
 3. Architectural Errors
 
 ![FIG:22](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
