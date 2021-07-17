@@ -151,9 +151,9 @@ There are different way to control the Power while playing with voltage of CMOS,
 
 Understanding some Theoritical techniques how Low Power testbench is setup .
 
-![FIG:12](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/low-powerDUT.png)
+![FIG:13](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/low-powerDUT.png)
 
-![FIG🕦](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/LP_TB.png)
+![FIG:14](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/LP_TB.png)
 
 
 
