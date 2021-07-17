@@ -253,3 +253,10 @@ To verify Power management circuit verification is very complex:
 
 ![FIG:25](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/PM_VEr.png)
 
+
+
+Traditional VS Multi-Volatge Power Management 
+
+![FIG:26](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/TradC_MV.png)
+
+
