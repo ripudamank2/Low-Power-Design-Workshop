@@ -197,3 +197,7 @@ Two variation
 2. With logic Signal --> direclty given signal to Vt cell around the logic 
 
 
+
+![FIG:19](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/isolation.png)
+
+
