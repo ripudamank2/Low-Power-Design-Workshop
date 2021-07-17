@@ -172,6 +172,13 @@ Note : Emulators - it cant shutdown simulate easily.
 
 ### Basic Muti-Voltage Terminolgy
 
+![FIG:15](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/Rail_vdd.png)
+
+![FIG:16](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/spatial_temporal.png)
+
+![FIG:17](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/island.png)
+
+![FIG:18](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/domain_well.png)
 
 
 
