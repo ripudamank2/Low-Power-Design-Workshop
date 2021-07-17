@@ -243,6 +243,13 @@ In the Power Aware Verification flow Bug can be classified in 3 parts
 2. Control Errors  --> these errors are see in the waveform when incorrect signal propagation happens after power restoration.
 3. Architectural Errors
 
-![FIG:22](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
+![FIG:23](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/bugs.png)
 
+
+To verify Power management circuit verification is very complex:
+
+![FIG:24](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/PAVF.png)
+
+
+![FIG:25](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/PM_VEr.png)
 
