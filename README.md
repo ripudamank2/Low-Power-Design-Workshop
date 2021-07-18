@@ -264,4 +264,13 @@ Traditional VS Multi-Volatge Power Management
 
 ## DAY_5 - Island Ordering and Mobility 
 
+Island Ordering is one of the low power design fundamental technique. Its use for debugging deadlock situation and pad states.
+
+1. Its a mathematical concept of spatial and temporal dependencies.
+2. It can be used to predict power sequences for wakeup/shutdown.
+3. Its used to statically detect dependencies that lead to deadlock.
+4. Applies to software as a concept but harder to detect
+
+
+
 
