@@ -272,5 +272,10 @@ Island Ordering is one of the low power design fundamental technique. Its use fo
 4. Applies to software as a concept but harder to detect
 
 
+Example:
+if A=off, B = on OR A=on, B = off then A & B are disjoint . its means in time is can be A>B OR A<B 
+if A and B both are On or OFF all time , its means they are equivalent.
+                                                                                                   
+                                                                                                   
 
 
