@@ -289,3 +289,8 @@ Low Vdd standy means on state but not operational.
  **No control Signal shall pass from lower order island to a higher order island**
  example of control signals are : clk, clk_en, rst, pwr_gate, iso_en, scan_en, restore. 
  
+ 
+ Disjoint island :
+ 1. Do not send control signals between them
+ 2. Minimize signal interchange between them - it will leads to excess isolation gates. 
+ 
