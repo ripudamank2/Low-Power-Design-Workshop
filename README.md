@@ -277,5 +277,12 @@ if A=off, B = on OR A=on, B = off then A & B are disjoint . its means in time is
 if A and B both are On or OFF all time , its means they are equivalent.
                                                                                                    
                                                                                                    
-
+Low Vdd standy means on state but not operational.
+                                                                                                   
+ ISLAND A > B if State (A) > State (B) at all times
+ A = On , On , On , standby
+ B = On , off, Standby, off 
+ 
+ if A = off and B =On is not available then above condition is true. 
+                                                                                                   
 
