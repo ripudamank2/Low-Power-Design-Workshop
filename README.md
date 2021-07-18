@@ -301,3 +301,10 @@ Low Vdd standy means on state but not operational.
      It refer to un-tethering of devices from fixed locations.
  2. Mobility refers to the migration of services from fixed locations.
  3. Mobile enable data . Mobility generated data and also uses the data created by mobile application.
+    e.g location based services.
+ 
+ 
+ 
+ Functional Accuracy ------> Integrating H/W <---> S/W platform -------> Application and Analytics 
+gps, camera, audio ,
+sensors                                 Kernel level                         apps(Ios or android )
