@@ -286,3 +286,4 @@ Low Vdd standy means on state but not operational.
  if A = off and B =On is not available then above condition is true. 
                                                                                                    
 
+ **No control Signal shall pass from lower order island to a higher order island**
