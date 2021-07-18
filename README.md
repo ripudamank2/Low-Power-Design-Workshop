@@ -294,3 +294,10 @@ Low Vdd standy means on state but not operational.
  1. Do not send control signals between them
  2. Minimize signal interchange between them - it will leads to excess isolation gates. 
  
+ 
+ Mobile Vs Mobility 
+  
+ 1. Mobile refer to device level innovation
+     It refer to un-tethering of devices from fixed locations.
+ 2. Mobility refers to the migration of services from fixed locations.
+ 3. Mobile enable data . Mobility generated data and also uses the data created by mobile application.
