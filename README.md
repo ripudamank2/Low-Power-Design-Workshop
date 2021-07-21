@@ -317,7 +317,8 @@ sensors                                               Kernel level              
 ## LAB Analysis
  
 INVERTER
- 
+ ![image](https://user-images.githubusercontent.com/8544850/126493896-5a8f9516-60a3-495b-a628-d9aa662e5604.png)
+
 
 ![FIG:27](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/1.png)
 
