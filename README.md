@@ -318,10 +318,11 @@ sensors                                               Kernel level              
  
 INVERTER
 
-
+![FIG:28](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/intverter1.PNG)
 
 ![FIG:27](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/1.png)
 
+ 
  
  
  
