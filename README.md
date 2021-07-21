@@ -309,3 +309,20 @@ Low Vdd standy means on state but not operational.
  
   gps, camera, audio ,
 sensors                                               Kernel level                                   apps(iOS or android )
+ 
+ 
+ 
+ 
+ 
+## LAB Analysis
+ 
+INVERTER
+ 
+
+![FIG:27](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/1.png)
+
+ 
+ 
+ 
+ 
+ 
