@@ -316,7 +316,7 @@ sensors                                               Kernel level              
  
 ## LAB Analysis
  
-As you see below designs are Power aware design . It means there volatge levels are trying to ramp-up slowly . In this when voltage level reaches to 1.2Volts circuit start to operate properly and before that it just tries to work some fraction of secconds and then go back to off state.
+As you see below designs are Power aware design . It means there volatge levels are trying to ramp-up slowly . In this when voltage level reaches to 1.2Volts circuit start to operate properly and before that it just tries to work some fraction of secconds and then go back to off state. It will cause more leakage and power consumption in the circuit. 
  
 INVERTER
 
