@@ -306,5 +306,6 @@ Low Vdd standy means on state but not operational.
  
  
  Functional Accuracy ------>      Integrating H/W <---> S/W platform        -------> Application and Analytics 
+ 
 gps, camera, audio ,
-sensors                                 Kernel level                         apps(Ios or android )
+sensors                                     Kernel level                                   apps(Ios or android )
