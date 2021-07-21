@@ -332,3 +332,13 @@ INVERTER
  
  
  
+ 4-BIT SHIFT REGISTER
+ 
+  ![FIG:31](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/shift_register/4bit_shift_register.PNG)
+ 
+  ![FIG:32](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/shift_register/shift_reg2.png)
+ 
+  ![FIG:33](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/shift_register/shift_reg1.png) 
+ 
+ 
+ 
