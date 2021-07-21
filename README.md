@@ -324,7 +324,11 @@ INVERTER
 
  
  
+ NAND2
  
+ ![FIG:29](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/nand2/nand1.PNG)
+ 
+ ![FIG:30](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/nand2/3.png)
  
  
  
