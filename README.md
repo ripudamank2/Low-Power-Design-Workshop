@@ -319,6 +319,7 @@ sensors                                               Kernel level              
 As you see below designs are Power aware design . It means there volatge levels are trying to ramp-up slowly . In this when voltage level reaches to 1.2Volts circuit start to operate properly and before that it just tries to work some fraction of secconds and then go back to off state. It will cause more leakage and power consumption in the circuit. 
  
 INVERTER
+ 
  Its a circuit which convert high signal to low signal or vice-versa. When two inverters connected in series are called as Buffer gate . 
  In this below diagram :
  IN1 : value changing from 1 to 0 or o to 1 
