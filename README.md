@@ -320,7 +320,18 @@ As you see below designs are Power aware design . It means there volatge levels 
  
 INVERTER
  Its a circuit which convert high signal to low signal or vice-versa. When two inverters connected in series are called as Buffer gate . 
+ In this below diagram :
+ IN1 : value changing from 1 to 0 or o to 1 
+ V1  : its increases slowly from 0.6 to 1.3V
+ V2  : Its high all time .
+ 
+ If we start analyzing output (out1) . You will see whenever the input voltage go low the out1 change its to high but its not getting high 
+ properly because voltage is ramping up slowly.
+ 
+ When the volatge of CMOS devices crosses saturation region device get to operate properly 
 
+ Switching of Second inverter(X2) will start when it get proper output from inverter(X1) which it will get when the voltage crosses 0.7 volt. But switching is so fast that leakage is high in Inverter two (X2).
+ 
 ![FIG:28](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/intverter1.PNG)
 
 ![FIG:27](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/inverter/1.png)
