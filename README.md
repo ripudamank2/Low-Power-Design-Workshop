@@ -370,7 +370,12 @@ INVERTER
  
  V1 : Constant 1.2 V
  
- Vout
+ Vout : Initialy it zero upto 20ns but after that we get the ouput.
+ 
+ We can see the V2 is increasing slowly . When voltage(V2) is low the flip-flops are not working and they are not switching properly but they are also ramping up slowly depending upon Input volatge which are applied to the Flip-flops. So its in the low power mode. 
+ 
+ We can clearly see that voltage when voltage is at 1.2V the circuit start to opearte properly and we had saved power in switching and leakage current .
+ 
  
  
  
