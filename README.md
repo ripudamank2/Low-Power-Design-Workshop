@@ -341,6 +341,17 @@ INVERTER
  
  NAND2
  
+ Its a universal gate which can be used for designing any other gates in digital circuit . When any input is low , it get high at output. 
+ 
+ V1: its varing 0.6 to 1.8V
+ 
+ V2: its varing 0.8 to 1.8V
+ 
+ V3: its varing 1.8 to 0.4V
+ 
+ OUT: Initialy device is off thats why we are not seeing any change in output . But when the cmos device get On after 20ns the device start to operate slowly . After the Vdd reaches 1.2V the ouput of nand gate reaches to 1.2 .
+ So , we can see that this device operate according to the voltage change in the cmos devices. 
+ 
  ![FIG:29](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/nand2/nand1.PNG)
  
  ![FIG:30](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/nand2/3.png)
@@ -348,6 +359,20 @@ INVERTER
  
  
  4-BIT SHIFT REGISTER
+ 
+ Din : its switching from low to high or vice-versa
+ 
+ Clock : high to low signals
+ 
+ Reset : high
+ 
+ V2 : ramping up slowly from 0.7 to 1.3V
+ 
+ V1 : Constant 1.2 V
+ 
+ Vout
+ 
+ 
  
   ![FIG:31](https://github.com/ripudamank2/Low-Power-Design-Workshop/blob/main/shift_register/4bit_shift_register.PNG)
  
