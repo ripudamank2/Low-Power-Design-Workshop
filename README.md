@@ -391,6 +391,16 @@ INVERTER
 
  
  
+ Components of UPF
+ Power Domain:
+ Power Supply Network
+ Power State Table
+ Isolation Strategies
+ Retention Strategies
+ Level Shifter Strategies
+ Repeater Strategies
+
+ 
  
  
  
