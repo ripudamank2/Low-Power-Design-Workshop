@@ -391,6 +391,10 @@ INVERTER
 
  
  
+## UPF
+ 
+ UPF is for entire design flow not just a RTL
+ 
  Components of UPF
 
  Power Domain:
