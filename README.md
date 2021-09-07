@@ -418,13 +418,19 @@ INVERTER
  
  ## References:
   
-  1.Verification Methodology Manual for Low Power - Srikanth Jadcherla, Janick Bergeron, Yoshio Inoue and David Flynn
-  2. https://asic-soc.blogspot.com/2008/03/leakage-power-trends.html
-  3. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.247.2916&rep=rep1&type=pdf
+   1. Verification Methodology Manual for Low Power - Srikanth Jadcherla, Janick Bergeron, Yoshio Inoue and David Flynn
  
+   2. https://asic-soc.blogspot.com/2008/03/leakage-power-trends.html
+  
+   3. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.247.2916&rep=rep1&type=pdf
+   
+   4. https://github.com/ShonTaware/LowPower
  
  ##  Acknowledgements:
-  1. 
+ 
+ 
+    1. 
+ 
  
  
  
