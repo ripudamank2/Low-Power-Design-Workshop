@@ -429,7 +429,9 @@ INVERTER
  ##  Acknowledgements:
  
  
-    1. 
+    1. Srikanth Jadcherla. Low Power Electronics Guru,
+ 
+    2. Kunal Ghosh, Co-founder (VSD Corp. Pvt. Ltd)
  
  
  
